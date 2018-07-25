@@ -5,3 +5,9 @@ is
 all
 we 
 have
+but
+who
+knows
+for
+how
+long
